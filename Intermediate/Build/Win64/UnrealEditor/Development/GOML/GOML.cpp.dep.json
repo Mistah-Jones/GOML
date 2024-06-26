@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\u0980906\\desktop\\goml_ws\\source\\goml\\goml.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\u0980906\\desktop\\goml_ws\\intermediate\\build\\win64\\gomleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\u0980906\\desktop\\goml_ws\\intermediate\\build\\win64\\unrealeditor\\development\\goml\\definitions.goml.h",
+            "c:\\users\\u0980906\\desktop\\goml_ws\\source\\goml\\goml.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

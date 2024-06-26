@@ -1,0 +1,12 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" GOMLEditor Win64 Development -Project="C:\Users\u0980906\Desktop\GOML_WS\GOML.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\u0980906\AppData\Local\UnrealBuildTool\Log.txt
+  Building GOMLEditor...
+  Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+    Executing up to 16 processes, one per physical core
+  Building 2 actions with 2 processes...
+  [1/2] Link UnrealEditor-SERIALCOM.dll
+     Creating library C:\Users\u0980906\Desktop\GOML_WS\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.suppressed.lib and object C:\Users\u0980906\Desktop\GOML_WS\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.suppressed.exp
+  [2/2] WriteMetadata GOMLEditor.target
+  Total time in Parallel executor: 1.01 seconds
+  Total execution time: 1.34 seconds

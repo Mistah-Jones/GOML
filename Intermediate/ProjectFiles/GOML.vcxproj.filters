@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GOML.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GOML.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GOMLEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.p4ignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\GardenHose_Nozzle_Rig.ma" />
+    <None Include="..\..\GOML.code-workspace" />
+    <None Include="..\..\Kid_Rig.ma" />
+    <None Include="..\..\Kid_Rig_01.ma" />
+    <None Include="..\..\Kid_Rig_02.ma" />
+    <None Include="..\..\Kid_Rig_03.ma" />
+    <None Include="..\..\Kid_Rig_04.ma" />
+    <None Include="..\..\Oldman_Rig.ma" />
+    <None Include="..\..\SK_FantaGun.fbx" />
+    <None Include="..\..\SK_GardenHose_Nozzle.fbx" />
+    <None Include="..\..\SK_Kid_01.fbx" />
+    <None Include="..\..\SK_Kid_02.fbx" />
+    <None Include="..\..\SK_Kid_03.fbx" />
+    <None Include="..\..\SK_Kid_04.fbx" />
+    <None Include="..\..\SK_OldMan.fbx" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SerialCOM_4_UE510">
+      <UniqueIdentifier>{6881142D-1343-33C7-8ED0-7CEF452022CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SerialCOM_4_UE510\Source">
+      <UniqueIdentifier>{F3F3BB92-FD03-31A3-A228-54641C81D9E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SerialCOM_4_UE510\Source\SERIALCOM">
+      <UniqueIdentifier>{8D52CD1D-83C8-3AB0-8BEF-5596C5A66C09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SerialCOM_4_UE510\Source\SERIALCOM\SERIALCOM.Build.cs">
+      <Filter>Plugins\SerialCOM_4_UE510\Source\SERIALCOM</Filter>
+    </None>
+    <Filter Include="Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Private">
+      <UniqueIdentifier>{E2ACC7DB-360E-356B-AE52-6520A9B6BDC8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Private\SerialCom.cpp">
+      <Filter>Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Private\SERIALCOMModule.cpp">
+      <Filter>Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Public">
+      <UniqueIdentifier>{76AC7D02-6EB2-33CB-86F4-6F4DA320413A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Public\SerialCom.h">
+      <Filter>Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Public\SERIALCOMModule.h">
+      <Filter>Plugins\SerialCOM_4_UE510\Source\SERIALCOM\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\SerialCOM_4_UE510\SERIALCOM.uplugin">
+      <Filter>Plugins\SerialCOM_4_UE510</Filter>
+    </None>
+    <Filter Include="Plugins\SerialCOM_4_UE510\Resources">
+      <UniqueIdentifier>{FBECCDCE-825F-347D-8ED3-6D9379526F89}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SerialCOM_4_UE510\Resources\Icon128.png">
+      <Filter>Plugins\SerialCOM_4_UE510\Resources</Filter>
+    </None>
+    <Filter Include="Source\GOML">
+      <UniqueIdentifier>{E437CD92-5273-3AD0-9B52-2C281CE33085}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GOML\ArduinoHelpers.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\ArduinoHelpers.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\Drone.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\Drone.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\DroneSpline.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\DroneSpline.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\GameModeLawn.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\GameModeLawn.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GOML\GOML.Build.cs">
+      <Filter>Source\GOML</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GOML\GOML.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\GOML.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\KidAIController.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\KidAIController.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\PlayerCharacter.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\PlayerCharacter.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\Powerup.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\Powerup.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\Toy.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\Toy.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GOML\Trespasser.cpp">
+      <Filter>Source\GOML</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GOML\Trespasser.h">
+      <Filter>Source\GOML</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

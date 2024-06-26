@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\u0980906\\desktop\\goml_ws\\source\\goml\\dronespline.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\u0980906\\desktop\\goml_ws\\intermediate\\build\\win64\\gomleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\u0980906\\desktop\\goml_ws\\intermediate\\build\\win64\\unrealeditor\\development\\goml\\definitions.goml.h",
+            "c:\\users\\u0980906\\desktop\\goml_ws\\source\\goml\\dronespline.h",
+            "c:\\users\\u0980906\\desktop\\goml_ws\\intermediate\\build\\win64\\unrealeditor\\inc\\goml\\uht\\dronespline.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
